@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Carlos Castro
 
-- 🔭 Hoje eu trabalho como Analista de Suporte Computacional
+- 🔭 Hoje eu trabalho como Analista de Suporte de TI
 - 🌱 Estudando Ciência da Computação e formado em Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/dele
 
